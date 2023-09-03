@@ -1,8 +1,5 @@
 # Hi, I am Dilinur 👋!
 
----
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/dilinur-aisarova/)](https://www.linkedin.com/in/dilinur-aisarova/)
-
 ### About me 👩‍💻:
 I just finished my QA manual course and listened more than 30 hours of lectures. I had an experience in writing test documentation, including test plans, checklists, test suites, test cases and bug reports. I am familiar with various bug tracking systems such as YouTrack and JIRA and had an experience in working with MySQL.
 
