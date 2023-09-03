@@ -80,6 +80,12 @@ I just finished my QA manual course and listened more than 30 hours of lectures.
   
 </div>
 
+### Testing Artefacts:
+ <ul>
+<li>  <a href="https://github.com/Dilinura/Test_design.git">Test design</a> </li> 
+<li>  <a href="https://github.com/Dilinura/TC_testing_documentation.git"> Guru99 Telecom</a> checklist, test cases, bug report </li>
+<li> <a href="https://github.com/Dilinura/Web_app_testing.git">Demo Web Shop</a> checklist, test cases, bug report </li>
+
 ---
 
 <!-- ### 💻 Пройденные курсы:
