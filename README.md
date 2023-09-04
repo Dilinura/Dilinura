@@ -85,6 +85,11 @@ I just finished my QA manual course and listened more than 30 hours of lectures.
 <li>  <a href="https://github.com/Dilinura/Test_design.git">Test design</a> </li> 
 <li>  <a href="https://github.com/Dilinura/TC_testing_documentation.git"> Guru99 Telecom</a> checklist, test cases, bug report </li>
 <li> <a href="https://github.com/Dilinura/Web_app_testing.git">Demo Web Shop</a> checklist, test cases, bug report </li>
+<li> <a href="https://github.com/Dilinura/Mobile_app_testing.git">Android app testing</a> checklist, test cases, bug report, test summary report </li>
+<li>  <a href="https://github.com/Dilinura/REST_SOAP_API_testing_POSTMAN.git">REST and SOAP API testing via POSTMAN</a> </li> 
+<li>  <a href="https://github.com/Dilinura/MySQL.git">MySQL Workbench</a> </li> 
+<li>  <a href="https://github.com/Dilinura/MongoDB.git">MongoDB</a> </li> 
+<li>  <a href="https://github.com/Dilinura/Bash.git">Bash</a> </li> 
 
 ---
 
