@@ -3,6 +3,9 @@
 ### About me 👩‍💻:
 I just finished my QA manual course and listened more than 30 hours of lectures. I had an experience in writing test documentation, including test plans, checklists, test suites, test cases and bug reports. I am familiar with various bug tracking systems such as YouTrack and JIRA and had an experience in working with MySQL.
 
+### My CV 📕: 
+You are welcome to checkout my<a href="https://drive.google.com/file/d/1ftwNTT0BshYFkLAJTov6qVLh-CStzJo7/view?usp=sharing">resume</a> 
+
 ### Interesting facts about me💡:
 * 👩‍💻 Started learning IT after running my own business
 * 💻 Learning JS in my free time
